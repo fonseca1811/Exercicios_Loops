@@ -1,2 +1,2 @@
-# Exercicios_Loops
-Repositorio de exercicios em loop
+# Exercícios_Loops
+Repositorio de exercícios em loop
